@@ -1,4 +1,3 @@
-```css
 @font-face {
   font-family: 'Bornomala';
   src: url('/fonts/bornomala/bornomala-regular.woff2') format('woff2');
@@ -953,4 +952,3 @@ footer {
     grid-template-columns: 1fr 1fr;
   }
 }
-```
