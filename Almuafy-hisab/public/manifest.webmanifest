@@ -1,0 +1,10 @@
+{
+  "name": "ALMUAFY HISAB",
+  "short_name": "Hisab",
+  "lang": "bn-BD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8fa",
+  "theme_color": "#102d42",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
